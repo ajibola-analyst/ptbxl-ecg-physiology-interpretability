@@ -2,7 +2,7 @@
 
 *A physiology-led study. Built on 21,388 ECGs, then tested on 6,947 more from a different source it had never seen.*
 
-**Live demo:** coming soon · **DOI:** assigned at first release · **Preprint:** in preparation
+**Live demo:** [Streamlit App](https://ptbxl-ecg-physiology-interpretability.streamlit.app/) · **DOI:** assigned at first release · **Preprint:** in preparation
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![PyTorch](https://img.shields.io/badge/Model-PyTorch%201D%20ResNet-red)
