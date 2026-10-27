@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Can an AI read an ECG, and can we trust how it reads it? Physiology-grounded deep learning on PTB-XL with external validation"
+type: software
+authors:
+  - family-names: "Odeyemi"
+    given-names: "Ajibola"
+    orcid: "https://orcid.org/0009-0007-9924-1216"
+version: "1.0.0"
+date-released: "2026-10-06"
+repository-code: "https://github.com/ajibola-analyst/ptbxl-ecg-physiology-interpretability"
+license: MIT

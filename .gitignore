@@ -1,0 +1,24 @@
+# Python and tools
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+
+# Large data (never upload): downloaded or generated on your computer
+data/ptbxl/
+data/processed/
+data/external/
+data_ecg/
+
+# Trained models are rebuilt by the pipeline (the small copy in app/assets IS kept for the demo)
+models/*.pt
+models/*.joblib
+
+# Zip files, logs, and operating-system clutter
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,82 @@
+{
+  "NORM": {
+    "n_records": 200,
+    "n_beats": 2159,
+    "attention_share": {
+      "QRS (-40 to +60 ms)": 0.15562936663627625,
+      "ST segment / early T (+60 to +200 ms)": 0.2558749318122864,
+      "T wave (+200 to +400 ms)": 0.3950805962085724,
+      "Rest of cycle (PR/TP)": 0.19341516494750977
+    },
+    "enrichment_vs_uniform": {
+      "QRS (-40 to +60 ms)": 1.24503493309021,
+      "ST segment / early T (+60 to +200 ms)": 1.4621424674987793,
+      "T wave (+200 to +400 ms)": 1.5803223848342896,
+      "Rest of cycle (PR/TP)": 0.4298114776611328
+    }
+  },
+  "MI": {
+    "n_records": 200,
+    "n_beats": 2150,
+    "attention_share": {
+      "QRS (-40 to +60 ms)": 0.18823300302028656,
+      "ST segment / early T (+60 to +200 ms)": 0.20496904850006104,
+      "T wave (+200 to +400 ms)": 0.20156708359718323,
+      "Rest of cycle (PR/TP)": 0.40523093938827515
+    },
+    "enrichment_vs_uniform": {
+      "QRS (-40 to +60 ms)": 1.5058640241622925,
+      "ST segment / early T (+60 to +200 ms)": 1.1712517057146346,
+      "T wave (+200 to +400 ms)": 0.8062683343887329,
+      "Rest of cycle (PR/TP)": 0.9005131986406114
+    }
+  },
+  "STTC": {
+    "n_records": 200,
+    "n_beats": 2285,
+    "attention_share": {
+      "QRS (-40 to +60 ms)": 0.14476682245731354,
+      "ST segment / early T (+60 to +200 ms)": 0.24481526017189026,
+      "T wave (+200 to +400 ms)": 0.30885836482048035,
+      "Rest of cycle (PR/TP)": 0.3015594780445099
+    },
+    "enrichment_vs_uniform": {
+      "QRS (-40 to +60 ms)": 1.1581345796585083,
+      "ST segment / early T (+60 to +200 ms)": 1.398944343839373,
+      "T wave (+200 to +400 ms)": 1.2354334592819214,
+      "Rest of cycle (PR/TP)": 0.6701321734322442
+    }
+  },
+  "CD": {
+    "n_records": 200,
+    "n_beats": 2134,
+    "attention_share": {
+      "QRS (-40 to +60 ms)": 0.19686058163642883,
+      "ST segment / early T (+60 to +200 ms)": 0.26352423429489136,
+      "T wave (+200 to +400 ms)": 0.16413526237010956,
+      "Rest of cycle (PR/TP)": 0.37547987699508667
+    },
+    "enrichment_vs_uniform": {
+      "QRS (-40 to +60 ms)": 1.5748846530914307,
+      "ST segment / early T (+60 to +200 ms)": 1.5058527673993793,
+      "T wave (+200 to +400 ms)": 0.6565410494804382,
+      "Rest of cycle (PR/TP)": 0.8343997266557481
+    }
+  },
+  "HYP": {
+    "n_records": 135,
+    "n_beats": 1559,
+    "attention_share": {
+      "QRS (-40 to +60 ms)": 0.19308099150657654,
+      "ST segment / early T (+60 to +200 ms)": 0.26093006134033203,
+      "T wave (+200 to +400 ms)": 0.21518895030021667,
+      "Rest of cycle (PR/TP)": 0.33079996705055237
+    },
+    "enrichment_vs_uniform": {
+      "QRS (-40 to +60 ms)": 1.5446479320526123,
+      "ST segment / early T (+60 to +200 ms)": 1.4910289219447546,
+      "T wave (+200 to +400 ms)": 0.8607558012008667,
+      "Rest of cycle (PR/TP)": 0.7351110378901163
+    }
+  }
+}
